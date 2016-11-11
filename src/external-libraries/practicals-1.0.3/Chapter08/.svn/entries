@@ -1,0 +1,64 @@
+8
+
+dir
+433
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn/trunk/src/external-libraries/practicals-1.0.3/Chapter08
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn
+
+
+
+2006-08-02T21:37:56.571309Z
+199
+junrue
+
+
+svn:special svn:externals svn:needs-lock
+
+macro-utilities.lisp
+file
+
+
+
+
+2005-03-03T19:42:18.000000Z
+04bfeb5f307f74a3adacff2e00f8dd75
+2006-08-02T21:37:56.571309Z
+199
+junrue
+
+macro-utilities.asd
+file
+
+
+
+
+2005-03-03T19:42:00.000000Z
+7d147c1cac84d332c26938844feb8151
+2006-08-02T21:37:56.571309Z
+199
+junrue
+
+chapter-8.asd
+file
+
+
+
+
+2005-04-10T20:52:26.000000Z
+8674f6a8fead0b49fa3accb7ed98cb17
+2006-08-02T21:37:56.571309Z
+199
+junrue
+
+packages.lisp
+file
+
+
+
+
+2005-03-03T19:42:30.000000Z
+561e61196749ef8cee2a6b7731d3e8ce
+2006-08-02T21:37:56.571309Z
+199
+junrue
+

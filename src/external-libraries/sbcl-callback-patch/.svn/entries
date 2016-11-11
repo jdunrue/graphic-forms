@@ -1,0 +1,40 @@
+8
+
+dir
+433
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn/trunk/src/external-libraries/sbcl-callback-patch
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn
+
+
+
+2006-08-10T21:33:31.343694Z
+205
+junrue
+
+
+svn:special svn:externals svn:needs-lock
+
+callback-hacking.lisp
+file
+
+
+
+
+2006-08-10T21:46:19.109375Z
+6f68329a4bf7d7ee2725172412f3344e
+2006-08-10T21:33:31.343694Z
+205
+junrue
+
+readme.txt
+file
+
+
+
+
+2006-08-10T21:46:17.046875Z
+2a1fe2a40c7464c07f86d5fa2bc2f252
+2006-08-10T21:33:31.343694Z
+205
+junrue
+

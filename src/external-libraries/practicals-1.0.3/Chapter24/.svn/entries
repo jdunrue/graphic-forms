@@ -1,0 +1,64 @@
+8
+
+dir
+433
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn/trunk/src/external-libraries/practicals-1.0.3/Chapter24
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn
+
+
+
+2006-08-02T21:37:56.571309Z
+199
+junrue
+
+
+svn:special svn:externals svn:needs-lock
+
+chapter-24.asd
+file
+
+
+
+
+2005-04-10T20:53:28.000000Z
+92d7f2ca661f36637fe81ef716305669
+2006-08-02T21:37:56.571309Z
+199
+junrue
+
+binary-data.lisp
+file
+
+
+
+
+2005-03-03T19:49:00.000000Z
+51ed7ee5eb86c8e76e39667f953a58ca
+2006-08-02T21:37:56.571309Z
+199
+junrue
+
+binary-data.asd
+file
+
+
+
+
+2005-03-03T19:48:48.000000Z
+25512bb291aa32ca86f51865122fe41e
+2006-08-02T21:37:56.571309Z
+199
+junrue
+
+packages.lisp
+file
+
+
+
+
+2005-02-10T20:52:42.000000Z
+e79fff49a20d6b1ca858cd3ee9eb6e3b
+2006-08-02T21:37:56.571309Z
+199
+junrue
+

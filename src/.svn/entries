@@ -1,0 +1,52 @@
+8
+
+dir
+433
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn/trunk/src
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn
+
+
+
+2007-03-11T17:45:20.747262Z
+431
+junrue
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0e9ca06f-210c-0410-940e-c45d006ec0ef
+
+tests
+dir
+
+uitoolkit
+dir
+
+packages.lisp
+file
+475
+
+
+
+2007-08-20T03:45:58.250000Z
+5ccd785090ed4e8645f943401640817a
+2007-08-20T03:51:52.350077Z
+475
+junrue
+
+demos
+dir
+
+external-libraries
+dir
+

@@ -1,0 +1,34 @@
+8
+
+dir
+433
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn/trunk/src/tests
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn
+
+
+
+2007-01-31T14:17:41.984216Z
+430
+junrue
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0e9ca06f-210c-0410-940e-c45d006ec0ef
+
+uitoolkit
+dir
+
+mcclim
+dir
+

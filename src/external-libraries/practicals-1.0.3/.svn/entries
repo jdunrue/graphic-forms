@@ -1,0 +1,46 @@
+8
+
+dir
+433
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn/trunk/src/external-libraries/practicals-1.0.3
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn
+
+
+
+2006-08-02T21:37:56.571309Z
+199
+junrue
+
+
+svn:special svn:externals svn:needs-lock
+
+LICENSE
+file
+
+
+
+
+2005-03-03T19:38:16.000000Z
+92001a19f496eaf2f7069aba954e56b9
+2006-08-02T21:37:56.571309Z
+199
+junrue
+
+readme.txt
+file
+
+
+
+
+2006-07-29T01:11:38.250000Z
+f75ee417b51647ca05051b95a6cb759e
+2006-08-02T21:37:56.571309Z
+199
+junrue
+
+Chapter24
+dir
+
+Chapter08
+dir
+

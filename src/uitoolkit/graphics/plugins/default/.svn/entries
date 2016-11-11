@@ -1,0 +1,52 @@
+8
+
+dir
+433
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn/trunk/src/uitoolkit/graphics/plugins/default
+svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn
+
+
+
+2006-11-24T22:44:47.703243Z
+401
+junrue
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0e9ca06f-210c-0410-940e-c45d006ec0ef
+
+default-data-plugin.lisp
+file
+467
+
+
+
+2007-03-16T02:04:46.437500Z
+dba2b246ac8a9d83f5748abac37689de
+2007-07-07T22:35:03.010157Z
+467
+junrue
+
+file-formats.lisp
+file
+
+
+
+
+2007-03-16T03:49:11.218750Z
+a7b98331d6cbda85234b8e48f3d2dca9
+2006-08-07T16:14:19.132315Z
+201
+junrue
+
