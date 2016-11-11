@@ -1,37 +1,0 @@
-8
-
-dir
-433
-svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn/trunk/src/external-libraries
-svn+ssh://junrue@common-lisp.net/project/graphic-forms/svn
-
-
-
-2006-08-13T05:52:01.168125Z
-212
-junrue
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-0e9ca06f-210c-0410-940e-c45d006ec0ef
-
-practicals-1.0.3
-dir
-
-lisp-unit
-dir
-
-sbcl-callback-patch
-dir
-
