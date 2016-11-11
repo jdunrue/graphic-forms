@@ -1,5 +1,6 @@
 
-Graphic-Forms README for version 0.9.0 (xx xxxxxx 2007)
+Graphic-Forms README for version 0.9.0
+--------------------------------------
 Copyright (c) 2006-2007, Jack D. Unrue
 
 Graphic-Forms is a user interface library implemented in Common Lisp focusing
